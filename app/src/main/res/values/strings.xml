@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JoshFirstApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello World!</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="full_name_monyei_joshua_slack_username_joshuamonyei_start_ng_email_address_monyeijosh01_gmail_com_tracks_back_end_python_c_ruby_and_mobile_kotlin_and_java">Full Name: Monyei Joshua Slack Username: JoshuaMonyei Start.ng email address: monyeijosh01@gmail.com Tracks: Back end(python, c#, ruby) and Mobile(Kotlin and Java</string>
+</resources>
